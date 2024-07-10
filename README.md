@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/lbarbatto/conversor-de-moedas/blob/main/source/img/lb_backend_alura_002.png">
 
-<h1>Challenge ONE Back End: Java - Sprint 01: Conversor de Moedas</h1> 
+<h1>Challenge ONE Back End: Java: Conversor de Moedas</h1> 
 
 </p>
 
