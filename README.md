@@ -10,9 +10,9 @@
 
 ### Tópicos 
 
-:small_red_diamond: [Descrição do projeto](#descrição-do-projeto)
+:purple_square: [Descrição do projeto](#descrição-do-projeto)
 
-:small_red_diamond: [Funcionalidades](#funcionalidades)
+:purple_square: [Funcionalidades](#funcionalidades)
 
 
 ## Descrição do projeto 
