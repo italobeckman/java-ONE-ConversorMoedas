@@ -37,12 +37,6 @@
 
 :heavy_check_mark: Conversão de BRL para USD
 
-:heavy_check_mark: Conversão de Real para Libra Esterlina
-
-:heavy_check_mark: Conversão de Real Peso argentino
-
-:heavy_check_mark: Conversão de Real Peso chileno
-
 ## Uso
 Basta digitar qual conversão deseja realizar e após isso inserir o valor e teclar "OK" para visualizar a devida cotação.
 
